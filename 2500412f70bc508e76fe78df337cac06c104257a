@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_e324ccb0",
+        "filename": "overlay/packages/apps/Camera2/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2014-02-24T06:51:36Z",
+      "side": 1,
+      "message": "gerrit fail",
+      "revId": "2500412f70bc508e76fe78df337cac06c104257a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
