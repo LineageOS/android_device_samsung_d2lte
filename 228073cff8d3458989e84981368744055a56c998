@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_bd7db8e9",
+        "filename": "init/init_d2lte.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-02-27T16:32:51Z",
+      "side": 1,
+      "message": "ewww",
+      "revId": "228073cff8d3458989e84981368744055a56c998",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
