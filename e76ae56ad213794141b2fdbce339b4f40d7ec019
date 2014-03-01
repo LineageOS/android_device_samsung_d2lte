@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_16cf61b1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-03-01T11:57:47Z",
+      "side": 1,
+      "message": "really the commit is to enable TARGET_NEED_SAMSUNG_CAMERA_MODE, fixing hangouts is just a side-effect\n\nxD\n\nok now i\u0027m just being a dick...",
+      "revId": "e76ae56ad213794141b2fdbce339b4f40d7ec019",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_36ca65a2",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-03-01T11:57:47Z",
+      "side": 1,
+      "message": "y u do dis?",
+      "revId": "e76ae56ad213794141b2fdbce339b4f40d7ec019",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
