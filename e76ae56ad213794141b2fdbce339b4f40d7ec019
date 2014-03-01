@@ -51,6 +51,24 @@
       "revId": "e76ae56ad213794141b2fdbce339b4f40d7ec019",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_d63b399b",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-03-01T12:03:08Z",
+      "side": 1,
+      "message": "diffhub git",
+      "parentUuid": "bae84128_56c1e97f",
+      "revId": "e76ae56ad213794141b2fdbce339b4f40d7ec019",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
