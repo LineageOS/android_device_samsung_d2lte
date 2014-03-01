@@ -33,6 +33,24 @@
       "revId": "e76ae56ad213794141b2fdbce339b4f40d7ec019",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_56c1e97f",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2014-03-01T12:01:40Z",
+      "side": 1,
+      "message": "Rebase automatically added a newline to the end of the file. You can see it in the github diff.",
+      "parentUuid": "bae84128_36ca65a2",
+      "revId": "e76ae56ad213794141b2fdbce339b4f40d7ec019",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
