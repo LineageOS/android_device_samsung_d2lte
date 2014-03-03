@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_f18e4726",
+        "filename": "init/init_d2lte.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-03-03T12:09:54Z",
+      "side": 1,
+      "message": "This needs to come before I747, otherwise it wont ever happen \u003d)",
+      "revId": "f5a9cf184ff944e8f38cd6a20dad01acafb5cdbd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
