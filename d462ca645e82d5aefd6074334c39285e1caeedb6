@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_30f374a0",
+        "filename": "device.mk",
+        "patchSetId": 7
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 5503
+      },
+      "writtenOn": "2014-03-24T03:42:47Z",
+      "side": 0,
+      "message": "Shouldn\u0027t we do hsxpa and gprsclass dynamically also?",
+      "revId": "d462ca645e82d5aefd6074334c39285e1caeedb6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_d0f5e883",
+        "filename": "init/init_d2lte.c",
+        "patchSetId": 7
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 5503
+      },
+      "writtenOn": "2014-03-24T03:42:47Z",
+      "side": 0,
+      "message": "These parameters should be const",
+      "revId": "d462ca645e82d5aefd6074334c39285e1caeedb6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
