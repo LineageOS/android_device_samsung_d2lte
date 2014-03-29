@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "bae84128_8e521912",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2014-03-29T15:22:55Z",
+      "side": 1,
+      "message": "Remember this file gets turned into vendor scripts. The extra slashes are automagically turned into one. Same for the extra copyright, they end up in separate files",
+      "parentUuid": "bae84128_2e14ad42",
+      "revId": "4f67d68f29756e3304f52e6cfd9be4af1707a44b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bae84128_ce0ee133",
         "filename": "setup-makefiles.sh",
         "patchSetId": 2
