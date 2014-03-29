@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_4e1bf172",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-03-29T15:19:44Z",
+      "side": 1,
+      "message": "what\u0027s with the hyphen?",
+      "revId": "4f67d68f29756e3304f52e6cfd9be4af1707a44b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_2e14ad42",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-03-29T15:19:44Z",
+      "side": 1,
+      "message": "two slashes are better than one?",
+      "revId": "4f67d68f29756e3304f52e6cfd9be4af1707a44b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_ce0ee133",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-03-29T15:19:44Z",
+      "side": 1,
+      "message": "why do we have so many copyrights in this file?",
+      "revId": "4f67d68f29756e3304f52e6cfd9be4af1707a44b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_0e11e952",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-03-29T15:19:44Z",
+      "side": 1,
+      "message": "extraneous slash. same on the next line and toward the bottom",
+      "revId": "4f67d68f29756e3304f52e6cfd9be4af1707a44b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
