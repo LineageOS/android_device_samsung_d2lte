@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_be25b9af",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 8640
+      },
+      "writtenOn": "2014-04-04T08:10:32Z",
+      "side": 0,
+      "message": "Don\u0027t you still need to actually do the mount_all fstab.qcom?",
+      "revId": "16df7351b70e94a38ca71965b9232a014debf580",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
