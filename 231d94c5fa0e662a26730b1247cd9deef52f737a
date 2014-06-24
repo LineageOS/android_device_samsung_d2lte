@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_995f250e",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2014-06-24T17:31:47Z",
+      "side": 1,
+      "message": "If we\u0027re moving these to system.prop we can drop the exceptions as system.prop doesn\u0027t inherit.",
+      "revId": "231d94c5fa0e662a26730b1247cd9deef52f737a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
