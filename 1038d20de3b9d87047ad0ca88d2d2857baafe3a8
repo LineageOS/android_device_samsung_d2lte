@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_694a2d85",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 8
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 10
+      },
+      "writtenOn": "2014-09-04T12:54:08Z",
+      "side": 1,
+      "message": "This path needs to be relative to f/o/t, IIRC. Is it working like this?",
+      "revId": "1038d20de3b9d87047ad0ca88d2d2857baafe3a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
